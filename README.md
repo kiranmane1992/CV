@@ -7,7 +7,7 @@ Software engineer based in Mumbai India
 
 ## Engineering experience
 
-**Full Stack Developer** @ [AGC Glass Europe](https://www.agc-glass.eu/en/) _(Jun 2024 - Present)_
+**Full Stack Developer** @ [Innsight Interactive](http://www.innsight.com) _(Nov 2024 - Present)_
 
 Developing and enhancing an internal AI-driven platform for employees.
 
