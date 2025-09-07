@@ -49,15 +49,13 @@ Delivered AI and full-stack solutions for various client projects.
 -	Optimized API latency by **caching frequent queries** (improved response time by 40%).
 -	Stored user queries and responses in **MySQL** for analytics and reporting.
 
-**[Carysil.com] (Kitchen Appliances E-Commerce Platform)**
-	Developed RESTful APIs in Spring Boot to power the product catalog, filtering, and search features, supporting thousands of SKUs.
-	Integrated Typesense with backend APIs for real-time, typo-tolerant product search, reducing search latency and improving user experience by 30%.
-	Designed and implemented custom admin panel modules for product management, category mapping, and price updates, enabling faster catalog operations for business teams.
-	Wrote JUnit test cases to achieve 95% code coverage and performed API testing with Postman, reducing post-release defects significantly.
-	Leveraged Spring Data JPA to streamline CRUD operations and improve query performance.
-	Followed MVC + layered architecture principles for a clean, scalable, and maintainable codebase.
-	Followed MVC + layered architecture principles for a clean, scalable, and maintainable codebase.
-
+**[Carysil.com - Kitchen Appliances E-Commerce Platform]**
+-	Developed **RESTful APIs** in Spring Boot to power the product catalog, filtering, and search features, supporting thousands of SKUs.
+-	Integrated **Typesense** with backend APIs for real-time, typo-tolerant product search, reducing search latency and improving user experience by 30%.
+-	Designed and implemented custom admin panel modules for product management, category mapping, and price updates, enabling faster catalog operations for business teams.
+-	Wrote **JUnit test** cases to achieve 95% code coverage and performed API testing with Postman, reducing post-release defects significantly.
+-	Leveraged **Spring Data JPA** to streamline CRUD operations and improve query performance.
+-	Followed MVC + layered architecture principles for a clean, scalable, and maintainable codebase.
 
 Contributed to a project on innovative methods for energetically and economically evaluating buildings for urban decarbonization.
 
